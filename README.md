@@ -1,15 +1,17 @@
+# Novu Inbox with SvelteKit
+
 I'm running a SvelteKit (Svelte 5) project and trying to mount the Novu Inbox component to my header.
 
-### Versions
+## Versions
 
-- @sveltejs/kit: 2.5.27
-- svelte: 5.0.0
-- vite: 5.4.4
-- @novu/api: 0.6.2
-- @novu/framework: 2.6.6
-- @novu/js: 3.0.3
+-   @sveltejs/kit: 2.5.27
+-   svelte: 5.0.0
+-   vite: 5.4.4
+-   @novu/api: 0.6.2
+-   @novu/framework: 2.6.6
+-   @novu/js: 3.0.3
 
-### Reproduction
+## Reproduction
 
 <!--
 Link to a minimal test case based on one of:

@@ -35,7 +35,7 @@ The app to display a header with the text "This is my header" and a Novu Inbox c
 
 The app crashes with the following error:
 
-```bash
+```node
 file:///home/davyk17/web-development/novu-sveltekit-inbox-svelte-5/node_modules/@novu/js/dist/esm/ui/index.mjs:4
 import { delegateEvents, createComponent, mergeProps, render, Portal, spread, template, insert, memo, effect, className, use, setAttribute, Dynamic } from 'solid-js/web';
                                                                                                                          ^^^

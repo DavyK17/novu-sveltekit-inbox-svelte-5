@@ -14,6 +14,6 @@ export const load: LayoutLoad = async ({
 		},
 	});
 
-	// // Return data
+	// Return data
 	return { novu };
 };
